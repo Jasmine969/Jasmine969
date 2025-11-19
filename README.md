@@ -28,7 +28,7 @@
 
 # 🔥Projects
 
-- [WechatVisualization（微信聊天记录分析与可视化）](https://github.com/Jasmine969/WechatVisualization): Text analysis and statistics of Wechat can be generated in a click.
+- [WechatVisualization（微信聊天记录分析与可视化）](https://github.com/Jasmine969/WechatVisualization): Text analysis and statistics of Wechat can be generated on a click.
 - [geoparticle](https://github.com/Jasmine969/geoparticle): A Python package for geometry construction in particle-based simulation, which has been included in the [pre-/post-processing tools of LAMMPS](https://www.lammps.org/prepost.html#geoparticle).
 
 ## 📊GitHub statistics
