@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**Jasmine969/Jasmine969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀About
 
-Here are some ideas to get you started:
+👋 Hi everybody! I am Jasmine969, an open source enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently studying for a doctor’s degree in Soochow University, China.
+
+🔭 I’m currently working on particle-based simulation, particularly about establishing an in silico small intestine.
+
+✨ Disciplines: chemical engineering, computational physics, biomedical engineering, neuroscience, artificial intelligence
+
+💪 Skills: Python, C++, PyTorch, MATLAB, LAMMPS, Brian2
+
+## 🏢 Experiences
+
+<img width="200" src="assets/校徽.png" />
+
+- [Soochow University, Suzhou, China](https://www.suda.edu.cn/) &emsp; 📌 2022-09 —— now
+  - PhD candidate
+  - Chemical Engineering and Technology
+- HOURS Technology Co., Ltd., Suzhou, China（沃时科技） &emsp; 📌 2022-07 —— 2022-08
+  - Algorithm intern
+  - Molecular representations, AI-based reaction yield prediction
+- [Soochow University, Suzhou, China](https://www.suda.edu.cn/) &emsp; 📌 2018-09 —— 2022-06
+  - Bachelor of Engineering
+  - Chemical Engineering and Techniques
+
+## 📊GitHub statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasmine969&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmine969&hide=Jupyter Notebook)
+
