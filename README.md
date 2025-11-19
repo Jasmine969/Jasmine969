@@ -46,8 +46,11 @@
 ## Connect
 
 - <img src="assets/icons8-researchgate-24.png" align="left" width="30" />[ResearchGate——Hong Zhu](https://www.researchgate.net/profile/Hong-Zhu-76?ev=hdr_xprf)
+  
 - <img src="assets/知乎.png" align="left" width="30" />[知乎——记得小蘋初见](https://www.zhihu.com/people/ji-de-xiao-pin-chu-jian-77)
+  
 - <img src="assets/公众号.png" align="left" width="30" />公众号——茉界
+  
   <img src="assets/QRCode.jpg" alt="QRCode" style="zoom:67%;" />
 
 
