@@ -28,7 +28,13 @@
 
 ## 📊GitHub statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasmine969&show_icons=true&theme=merko)
+![Jasmine969's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasmine969&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmine969&hide=Jupyter Notebook)
+
+![](github-metrics.svg)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Jasmine969)
+
+![Jasmine969's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jasmine969&bg_color=000000&line=8FB328&color=8FB328)
 
