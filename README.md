@@ -8,9 +8,9 @@
 
 🔭 I’m currently working on particle-based simulation, particularly about establishing an in silico small intestine.
 
-✨ Disciplines: chemical engineering, computational physics, biomedical engineering, neuroscience, artificial intelligence
+✨ Disciplines: chemical engineering, computational mechanics, biomedical engineering, neuroscience, artificial intelligence
 
-💪 Skills: Python, C++, PyTorch, MATLAB, LAMMPS, Brian2
+💪 Skills: Python, C++, PyTorch, MATLAB, LAMMPS, SPHinXsys, Brian2
 
 ## 🏢 Experiences
 
