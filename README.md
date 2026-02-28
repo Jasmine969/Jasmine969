@@ -14,7 +14,7 @@
 
 ## 🏢 Experiences
 
-<img width="200" src="assets/校徽.png" />
+<img width="100" src="assets/校徽.png" />
 
 - [Soochow University, Suzhou, China](https://www.suda.edu.cn/) &emsp; 📌 2022-09 —— now
   - PhD candidate
