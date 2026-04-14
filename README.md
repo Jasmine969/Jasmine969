@@ -30,6 +30,7 @@
 
 # 🔥Projects
 
+- [CREST_SUDA](https://github.com/Jasmine969/CREST_SUDA): A mechanical-physiological framework to simulate the gut motility in a closed-loop system. Published in *J. R. Soc. Interface* in 2026.
 - [SPHinXsys](https://github.com/Xiangyu-Hu/SPHinXsys): A popular particle-basesd multiphysics library implemented by C++. I am one of the collaborators.
 - [SPHinXsys-notes](https://jasmine969.gitbook.io/jasmine969-docs): My learning notes of SPHinXsys, powered by GitBook.
 - [WechatVisualization（微信聊天记录分析与可视化）](https://github.com/Jasmine969/WechatVisualization): Text analysis and statistics of Wechat can be generated on a click.
