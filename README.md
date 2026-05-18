@@ -38,9 +38,9 @@
 
 ## 📊GitHub statistics
 
-![Jasmine969's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasmine969&show_icons=true&theme=merko)
+<!-- ![Jasmine969's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jasmine969&show_icons=true&theme=merko) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmine969&hide=jupyter%20notebook)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasmine969&hide=jupyter%20notebook) -->
 
 ![](github-metrics.svg)
 
