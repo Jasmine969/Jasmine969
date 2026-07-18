@@ -16,20 +16,97 @@
 
 ## 🏢 Experiences
 
-<img width="100" src="assets/校徽.png" />
-
-- [Huawei Technologies Co. Ltd](https://www.huawei.com/cn/corporate-information) &emsp; 📌 2026-06 —— 2026-12
-  - Algorithm intern of physical simulation
-  - Fire simulation of the power station; development of thermal runaway network. 
-- [Soochow University, Suzhou, China](https://www.suda.edu.cn/) &emsp; 📌 2022-09 —— now
-  - PhD candidate
-  - Chemical Engineering and Technology
-- HOURS Technology Co., Ltd., Suzhou, China（沃时科技） &emsp; 📌 2022-07 —— 2022-08
-  - Algorithm intern
-  - Molecular representations, AI-based reaction yield prediction
-- [Soochow University, Suzhou, China](https://www.suda.edu.cn/) &emsp; 📌 2018-09 —— 2022-06
-  - Bachelor of Engineering
-  - Chemical Engineering and Techniques
+<table width="100%">
+  <tbody>
+    <tr>
+      <td valign="top" width="85%">
+        <h3>
+          <a href="https://www.huawei.com/cn/corporate-information">
+            Huawei Technologies Co. Ltd
+          </a>
+        </h3>
+        <p>📌 2026-06 —— 2026-12</p>
+        <ul>
+          <li>Algorithm intern of physical simulation</li>
+          <li>
+            Fire simulation of the power station; development of thermal
+            runaway network.
+          </li>
+        </ul>
+      </td>
+      <td valign="center" align="center" width="15%">
+        <img
+          src="assets/huawei_logo.png"
+          alt="Huawei logo"
+          width="200"
+        >
+      </td>
+    </tr>
+    <tr>
+      <td valign="center" width="85%">
+        <h3>
+          <a href="https://www.suda.edu.cn/">
+            Soochow University, Suzhou, China
+          </a>
+        </h3>
+        <p>📌 2022-09 —— Present</p>
+        <ul>
+          <li>PhD candidate</li>
+          <li>Chemical Engineering and Technology</li>
+        </ul>
+      </td>
+      <td valign="center" align="center" width="15%">
+        <img
+          src="assets/校徽.png"
+          alt="Soochow University logo"
+          width="70"
+        >
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="85%">
+        <h3>
+          HOURS Technology Co., Ltd., Suzhou, China（沃时科技）
+        </h3>
+        <p>📌 2022-07 —— 2022-08</p>
+        <ul>
+          <li>Algorithm intern</li>
+          <li>
+            Molecular representations, AI-based reaction yield prediction
+          </li>
+        </ul>
+      </td>
+      <td valign="center" align="center" width="15%">
+        <img
+          src="assets/HOURS.png"
+          alt="HOURS Technology logo"
+          width="200"
+        >
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="85%">
+        <h3>
+          <a href="https://www.suda.edu.cn/">
+            Soochow University, Suzhou, China
+          </a>
+        </h3>
+        <p>📌 2018-09 —— 2022-06</p>
+        <ul>
+          <li>Bachelor of Engineering</li>
+          <li>Chemical Engineering and Techniques</li>
+        </ul>
+      </td>
+      <td valign="center" align="center" width="15%">
+        <img
+          src="assets/校徽.png"
+          alt="Soochow University logo"
+          width="70"
+        >
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # 🔥Projects
 
