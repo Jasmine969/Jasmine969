@@ -17,6 +17,7 @@
 ## 🏢 Experiences
 
 <img width="100" src="assets/校徽.png" />
+
 - [Huawei Technologies Co. Ltd](https://www.huawei.com/cn/corporate-information) &emsp; 📌 2026-06 —— 2026-12
   - Algorithm intern of physical simulation
   - Fire simulation of the power station; development of thermal runaway network. 
