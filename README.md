@@ -17,7 +17,9 @@
 ## 🏢 Experiences
 
 <img width="100" src="assets/校徽.png" />
-
+- [Huawei Technologies Co. Ltd](https://www.huawei.com/cn/corporate-information) &emsp; 📌 2026-06 —— 2026-12
+  - Algorithm intern of physical simulation
+  - Fire simulation of the power station; Development of thermal runaway network. 
 - [Soochow University, Suzhou, China](https://www.suda.edu.cn/) &emsp; 📌 2022-09 —— now
   - PhD candidate
   - Chemical Engineering and Technology
