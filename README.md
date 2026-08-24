@@ -29,7 +29,7 @@
         <ul>
           <li>Algorithm intern of physical simulation</li>
           <li>
-            Fire simulation of the power station; development of thermal
+            Fire simulation of the power station; development of a Python package for thermal
             runaway network.
           </li>
         </ul>
